@@ -1,0 +1,1 @@
+ javac -cp "src" -d "out" FileWordCount.java src/WcUtil.java 

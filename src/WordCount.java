@@ -1,5 +1,4 @@
-
-class WordCount {
+public class WordCount {
 	String text;
 	public WordCount(String text){
 		this.text = text;
